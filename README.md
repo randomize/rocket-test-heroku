@@ -7,4 +7,8 @@ See details of deployment in there.
 
 This sample app uses Rocket instead of Iron.
 
+Deployed here: http://rocket-example.herokuapp.com/
+
+A neat description on Rocket-Heroku integration here: https://github.com/SergioBenitez/Rocket/issues/171
+
 

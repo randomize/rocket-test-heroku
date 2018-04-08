@@ -1,0 +1,8 @@
+[package]
+name = "rocket-test-heroku"
+version = "0.1.0"
+authors = ["Eugene Mihailenco <mihailencoe@gmail.com>"]
+
+[dependencies]
+rocket = "0.3.7"
+rocket_codegen = "0.3.7"
